@@ -1,0 +1,56 @@
+
+
+Body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(85, 42, 42, 0.61);
+    color: rgb(222, 216, 216);
+  }
+
+  .container{
+    width:-20%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+ 
+
+  header h1{
+    font-size: 50px;
+    font-weight: 100;
+    color:rgb(53, 2, 2);
+    text-align: right;
+    text-transform: uppercase;
+    text-decoration-color: rgb(93, 66, 31);
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    text-shadow: 3px 3px rgb(211, 62, 62);
+}
+
+header{
+  background-image: url(https://www.springboard.com/blog/wp-content/uploads/2021/10/shutterstock_1702515220-1.jpg);
+  height: 45vh;
+  background-position:center;
+  background-size:cover;
+}
+nav.menu{
+    background-color: rgb(201, 196, 189);
+    padding: 20px;
+    
+}
+
+nav a{
+    display:inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    color: rgb(135, 19, 19);
+}
+
+nav.menu a{
+    font-size: 19px;
+
+}
+
+footer nav a{
+    font-size: 10px;
+    color:rgb(180, 159, 159)
+}
+
